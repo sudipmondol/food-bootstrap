@@ -1,6 +1,7 @@
 /* header part start  */
 
 *{
+
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
@@ -41,5 +42,8 @@ margin-left: 150px;
 
 /* Hero section part start  */
 
+.img{
+
+}
 
 /* Hero secti on part end  */
