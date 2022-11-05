@@ -1,0 +1,16 @@
+/* header part start  */
+
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.bg-color{
+    background-color: chocolate ;
+}
+.dropdown-menu{
+    background-color: chocolate !important;
+}
+
+/* header part start  */
