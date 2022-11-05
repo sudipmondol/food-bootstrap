@@ -14,3 +14,25 @@
 }
 
 /* header part start  */
+
+/* section part start  */
+.img{
+width:50%;
+margin-left: 100px;
+}
+
+.link{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: medium;
+    background-color: chocolate;
+    color: black;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.link:hover{
+    
+}
+
+/* section part start  */
